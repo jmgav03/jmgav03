@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 View my learning journey on:
+### 🌱 View my learning journey on:
+- [Test Automation University](https://testautomationu.applitools.com/me.html#jmgavilan)
