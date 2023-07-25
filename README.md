@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ### 🌱 View my learning journey on:
 - [Test Automation University](https://testautomationu.applitools.com/me.html#jmgavilan)
+
+
+### 💻 Coding practices on:
+- [Leetcode](https://leetcode.com/jmgav03/)
