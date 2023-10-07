@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 ### 📓 Github Notes:
-# Reference documentation of errors or problems encountered while using github, and countermeasures done to solve and proceed
+<sub> Reference documentation of errors or problems encountered while using github, and countermeasures done to solve and proceed </sub>
 -
