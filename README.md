@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Personal Projects
+
 ### 🌱 View my learning journey on:
 - [Test Automation University](https://testautomationu.applitools.com/me.html#jmgavilan)
 
 
 ### 💻 Coding practices on:
 - [Leetcode](https://leetcode.com/jmgav03/)
+
+
+### Github Notes:
+Reference documentation of errors or problems encountered while using github, and countermeasures done to solve and proceed
