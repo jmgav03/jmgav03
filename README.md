@@ -2,7 +2,7 @@
 
 <!--
 **jmgav03/jmgav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+s
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Personal Projects
+### 🪴 Personal Projects
 
 ### 🌱 View my learning journey on:
 - [Test Automation University](https://testautomationu.applitools.com/me.html#jmgavilan)
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - [Leetcode](https://leetcode.com/jmgav03/)
 
 
-### Github Notes:
+### 📓 Github Notes:
 Reference documentation of errors or problems encountered while using github, and countermeasures done to solve and proceed
